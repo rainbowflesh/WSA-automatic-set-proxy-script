@@ -24,7 +24,7 @@ In "Boot app", the app execute path can be found from "Target" where in app's sh
 
 ### Run
 
-Once you're configured, run the script;
+Once you're configured, run the script (InitializeWpaProxy.ps1);
 
 The terminal windows may not close automatically if the WPA was not boot up, or close it manually when your app started.
 
