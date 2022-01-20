@@ -1,6 +1,6 @@
 # WPA-automatic-set-proxy-script
 
-A shabby powershell script that semi-auto set up you wpa proxy to host proxy.
+A shabby powershell script that semi-auto set up you wpa proxy to host proxy when you start an application.
 
 ## Usage
 
@@ -18,7 +18,7 @@ git clone https://github.com/isNijikawa/WPA-automatic-set-proxy-script.git
 
 ### Configure the script
 
-Please follow the comment.
+Please follow the comment in [InitializeWpaProxy.ps1](./InitializeWpaProxy.ps1).
 
 In "Boot app", the app execute path can be found from "Target" where in app's shortcut properties, copy the full text then paste the path down blow the example
 
